@@ -13,3 +13,4 @@ a = int(input("Enter a number: \n"))
 binar_a = Binar(a)
 print(f"Analog signal: {a}, Digital signal: {binar_a.result}")
 ```
+As you see you use the .result to get the digital result.
